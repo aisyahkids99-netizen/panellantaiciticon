@@ -39,9 +39,8 @@ Sebagai aplikator standar, kami mengikuti pedoman teknis resmi dari Citicon:
 
 Jika Anda memerlukan jasa pemasangan, kemitraan proyek, atau konsultasi teknis lebih lanjut, silakan hubungi kami melalui:
 
-*   **WhatsApp:** [Masukkan Nomor WhatsApp Anda]
-*   **Email:** [Masukkan Email Anda]
-*   **Website:** [Masukkan Link Website Jika Ada]
+*   **WhatsApp:** 0823-23171-1016 CS Diah
+*   **Website:**  [BJ Indo Perkasa](https://bjindoperkasa.com)]
 
 ---
 *Catatan: Repositori ini digunakan untuk dokumentasi portofolio proyek, panduan kerja tim di lapangan, dan informasi edukasi bagi konsumen.*
@@ -50,7 +49,6 @@ Jika Anda memerlukan jasa pemasangan, kemitraan proyek, atau konsultasi teknis l
 
 ## 🔗 Link Terkait
 
-*   [BJ Indo Perkasa](https://bjindoperkasa.com)
 *   [Bata Hebel Ringan](https://batahebelringan.com)
 *   [Bless Con Indonesia](https://www.blessconindonesia.com)
 *   [Informasi Pelatihan](https://informasipelatihan.com)
